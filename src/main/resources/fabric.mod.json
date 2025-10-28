@@ -4,8 +4,11 @@
   "version": "${version}",
   "name": "DurtleWeapons",
   "description": "DurtleWeapons is a custom weapons mod for the Durtle Empire SMP.",
-  "authors": [],
-  "contact": {},
+  "authors": ["RatseerOfRattesse"],
+  "contact": {
+    "homepage":"https://modrinth.com/user/RatseerOfRattesse",
+    "sources": "https://github.com/RatseerOfRattesse/DurtleWeapons"
+  },
   "license": "MIT",
   "icon": "assets/durtleweapons/icon.png",
   "environment": "*",
