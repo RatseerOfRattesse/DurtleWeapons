@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "durtleweapons",
+  "version": "${version}",
+  "name": "DurtleWeapons",
+  "description": "DurtleWeapons is a custom weapons mod for the Durtle Empire SMP.",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/durtleweapons/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net.ratseerofrattesse.durtleweapons.client.DurtleWeaponsDataGenerator"
+    ],
+    "client": [
+      "net.ratseerofrattesse.durtleweapons.client.DurtleWeaponsClient"
+    ],
+    "main": [
+      "net.ratseerofrattesse.durtleweapons.DurtleWeapons"
+    ]
+  },
+  "mixins": [
+    "durtleweapons.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
