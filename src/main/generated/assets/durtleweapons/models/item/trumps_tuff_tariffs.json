@@ -1,0 +1,6 @@
+{
+  "parent": "durtleweapons:item/big_weapon",
+  "textures": {
+    "layer0": "durtleweapons:item/trumps_tuff_tariffs"
+  }
+}

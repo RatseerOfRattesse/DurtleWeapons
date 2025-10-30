@@ -14,7 +14,7 @@
   "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
-      "net.ratseerofrattesse.durtleweapons.client.DurtleWeaponsDataGenerator"
+      "net.ratseerofrattesse.durtleweapons.datagen.DurtleWeaponsDataGenerator"
     ],
     "client": [
       "net.ratseerofrattesse.durtleweapons.client.DurtleWeaponsClient"

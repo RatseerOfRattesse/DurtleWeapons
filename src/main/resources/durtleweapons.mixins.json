@@ -4,13 +4,19 @@
   "package": "net.ratseerofrattesse.durtleweapons.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-  ],
-  "client": [
+    "DamageSourceMixin",
+    "RangedWeaponItemMixin"
   ],
   "injectors": {
     "defaultRequire": 1
   },
   "overwrites": {
     "requireAnnotations": true
-  }
+  },
+  "client": [
+    "client.ItemRendererMixin",
+    "access.ItemRendererAccess",
+    "client.PlayerEntityRendererMixin",
+    "client.HeldItemRendererMixin"
+  ]
 }

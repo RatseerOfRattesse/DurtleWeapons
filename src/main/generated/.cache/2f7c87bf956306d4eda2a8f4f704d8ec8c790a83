@@ -1,0 +1,14 @@
+// 1.21.1	2025-10-29T21:42:17.2024845	DurtleWeapons/Tags for minecraft:item
+4997d234225cba30c056684754922ad48301983c data\minecraft\tags\item\swords.json
+51d85d59a61c68c7ad3c2099526b725031be7759 data\minecraft\tags\item\axes.json
+7616d2177919a1c5fd44e0c3fc2ec9b1665fef6a data\minecraft\tags\item\enchantable\bow.json
+413771cdf918c0d9d5f3330f7635ed083ead310c data\minecraft\tags\item\enchantable\durability.json
+65ea851d82df44bf9ac72a865f6680eb7c987fab data\minecraft\tags\item\enchantable\fire_aspect.json
+f4bc038a74051964dc45f78ac228248b40109d80 data\minecraft\tags\item\pickaxes.json
+13b31800228f7c33ac207017d8b3c2df6d6068a5 data\minecraft\tags\item\enchantable\trident.json
+65ea851d82df44bf9ac72a865f6680eb7c987fab data\minecraft\tags\item\enchantable\weapon.json
+16011ab7d4cb023dae7135c440756db312052d6f data\minecraft\tags\item\breaks_decorated_pots.json
+0f026837fc9d66d607e6468b7fabc4f06f3eb083 data\minecraft\tags\item\enchantable\crossbow.json
+fe3213788b760ecd42866343b3fcfb5033291886 data\minecraft\tags\item\hoes.json
+73db8eb9ff561c5b6752e0dc89114f87fdf7ab01 data\minecraft\tags\item\shovels.json
+65ea851d82df44bf9ac72a865f6680eb7c987fab data\minecraft\tags\item\enchantable\mace.json

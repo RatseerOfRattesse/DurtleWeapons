@@ -1,0 +1,6 @@
+{
+    "parent": "durtleweapons:item/gods_twelve_gauge",
+    "textures": {
+        "layer0": "durtleweapons:item/gods_twelve_gauge_pulling_2"
+    }
+}
