@@ -1,0 +1,6 @@
+{
+    "parent": "durtleweapons:item/notchs_napalm",
+    "textures": {
+        "layer0": "durtleweapons:item/notchs_napalm_pulling_0"
+    }
+}
